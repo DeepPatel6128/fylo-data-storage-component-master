@@ -1,4 +1,6 @@
 # Frontend Mentor - Fylo data storage component
+# Live site url - https://deeppatel6128.github.io/fylo-data-storage-component-master/
+I also added some gsap animations.
 
 ![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)
 
